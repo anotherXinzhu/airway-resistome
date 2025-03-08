@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/1c1bdfcc-1a4a-4d5b-83e7-641cff142c29)# airway-resistome
-
 This repository contains the original code used for the primary analyses in the manuscript titled "Environmental Exposure Augments the Abundance and Transferability of Antibiotic Resistance Genes in the Respiratory Tract." All relevant data can be found in the 'data' directory. Codes for the main analyses as well as the scripts for generating the corresponding figures are included in each analysis folder.
 
 The processed microbiome data and basic demographic details (age, gender, BMI, site) for all 1,128 participants are included. Additionally, full metadata for an example mock set (N=150) is provided to facilitate pipeline assessment and code validation. Access to the full metadata for all individuals is restricted according to the regulations of the Human Genetic Resources Administration of China and in compliance with informed consent. This data can be made available upon reasonable request to the corresponding author, for the purpose of replicating the results or for review purposes.
