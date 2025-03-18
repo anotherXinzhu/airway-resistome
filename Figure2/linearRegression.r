@@ -54,7 +54,6 @@ for(arg.v in colnames(ARG.dat)[-1]){
     
     Lm.coef = s1$coef[colnames(testD)[3]]
     Lm.pval = an1[2,"Pr(>F)"]
-    Lm.F = an1[2,"F"]
     Lm.r2 = summary(s1)$r.squared - summary(s0)$r.squared
     
     
@@ -64,7 +63,6 @@ for(arg.v in colnames(ARG.dat)[-1]){
       X = colnames(testD)[3], 
       Lm.coef,
       Lm.pval,
-      Lm.F,
       Lm.r2
     )
     
