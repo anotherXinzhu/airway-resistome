@@ -1,0 +1,25 @@
+Sample	Group
+B146	Fresh Air
+B149	Fresh Air
+B152	Fresh Air
+B157	Fresh Air
+B182	Fresh Air
+B184	Fresh Air
+B194	Fresh Air
+B199	Fresh Air
+B147	Cigarette Smoke
+B150	Cigarette Smoke
+B151	Cigarette Smoke
+B153	Cigarette Smoke
+B155	Cigarette Smoke
+B156	Cigarette Smoke
+B158	Cigarette Smoke
+B159	Cigarette Smoke
+B187	Biomass Fuel
+B192	Biomass Fuel
+B193	Biomass Fuel
+B195	Biomass Fuel
+B196	Biomass Fuel
+B197	Biomass Fuel
+B198	Biomass Fuel
+B200	Biomass Fuel
